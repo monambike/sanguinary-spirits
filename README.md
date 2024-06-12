@@ -8,52 +8,52 @@ The game has damage, chase, flashlight, door, hint system and also some helper c
 
 1. Game Mechanics
 
-1.1 Monster: Inflict Damage, Chase
+   1.1. Monster: Inflict Damage, Chase
 
-1.2 Player: Life, Flashlight, Damage Indicator
+   1.2. Player: Life, Flashlight, Damage Indicator
 
-1.3 Scenario: Common Door (Open/Close/Locked), Exit Door
+   1.3. Scenario: Common Door (Open/Close/Locked), Exit Door
 
 2. UI Components
-   
-2.1 Hint and Interact Text
 
-2.2 Fade In and Fade Out
+   2.1. Hint and Interact Text
 
-2.3 Loading Screen
+   2.2. Fade In and Fade Out
+
+   2.3. Loading Screen
 
 3. Audio
 
-3.1 Splashscreens: Sound Effects
+   3.1. Splashscreens: Sound Effects
 
-3.2 Start Menu: Music, Sound Effects
+   3.2. Start Menu: Music, Sound Effects
 
-3.3 Game: Rain Sound Effect, Door Open/Close/Locked
+   3.3. Game: Rain Sound Effect, Door Open/Close/Locked
 
-3.4 Pause: Pause Music
+   3.4. Pause: Pause Music
 
-3.5 Player: Footsteps (Walk/Run), Breath (Run), Flashlight (On/Off)
+   3.5. Player: Footsteps (Walk/Run), Breath (Run), Flashlight (On/Off)
 
-3.6 Monster: Bite, Crawling Sound
+   3.6. Monster: Bite, Crawling Sound
 
 
 4. Scenes
 
-4.1 Splashscreen Author
+   4.1. Splashscreen Author
 
-4.2 Splashscreen Game
+   4.2. Splashscreen Game
 
-4.3 Start Screen
+   4.3. Start Screen
 
-4.4 Loading
+   4.4. Loading
 
-4.5 Game
+   4.5. Game
 
-4.6 Win
+   4.6. Win
 
-4.7 Game Over
+   4.7. Game Over
 
-4.8 Death
+   4.8. Death
 
 # Game Screenshots
 
