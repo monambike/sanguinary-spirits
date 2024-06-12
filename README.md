@@ -4,7 +4,7 @@ This is a game made as final assessment for "Harvard CS50" Game Development cour
 
 # Implementation List
 
-The game has damage, chase, flashlight, door, hint system and also some helper classes to handle loading screen and fade effects. There's the full implementation list down below.
+The game has damage, chase, flashlight, door, hint system and also some helper classes to handle loading screen and fade effects. There's the full implementation list down below:
 
 1. Game Mechanics
 
